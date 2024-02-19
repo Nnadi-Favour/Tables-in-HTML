@@ -1,0 +1,41 @@
+body{
+    background-color: red;
+    text-align: center;
+    padding-left: 350px;
+    
+}
+th{
+    padding: 10px;
+    font-size: 30px;
+}
+td{
+    padding: 20px;
+}
+ table, th, td{
+border: 1px solid red;
+border-collapse: collapse;
+border-radius: 10px;
+/* display: inherit; */
+
+
+}
+
+
+th, td{
+    background-color: azure;
+    border-style: double;
+    border-color: red;
+    
+
+}
+caption{
+    font-size: 23px;
+    width: 350px;
+    
+}
+a{
+    text-decoration:none;
+
+}
+    
+   
